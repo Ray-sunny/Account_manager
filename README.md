@@ -17,11 +17,7 @@ A secure and user-friendly password manager application built with Python, Tkint
    git clone https://github.com/your-username/Account_manager.git
    cd Account_manager
    ```
-2. Install required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-3. Run the application:
+2. Run the application:
    ```
    python main.py
    ```
