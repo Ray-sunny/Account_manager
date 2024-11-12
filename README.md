@@ -42,15 +42,15 @@ A secure and user-friendly password manager application built with Python, Tkint
    ```
 ## Security Considerations
 
--- **Encryption Key: The encryption key (account_manager_key) is generated once and reused. This key should be stored securely, as it is essential for decrypting stored passwords.
--- **.gitignore: Sensitive files such as the database (Account_Storage.db) and the encryption key should be included in .gitignore to prevent accidental uploads to version control.
+- **Encryption Key**: The encryption key (account_manager_key) is generated once and reused. This key should be stored securely, as it is essential for decrypting stored passwords.
+- **.gitignore**: Sensitive files such as the database (Account_Storage.db) and the encryption key should be included in .gitignore to prevent accidental uploads to version control.
 
 ## Dependencies
 
--- **tkinter: GUI framework for creating the user interface
--- **sqlite3: Lightweight SQL database for data storage
--- **cryptography: Library for password encryption and decryption
--- **Pillow: Image handling library for displaying the lock icon
+- **tkinter**: GUI framework for creating the user interface
+- **sqlite3**: Lightweight SQL database for data storage
+- **cryptography**: Library for password encryption and decryption
+- **Pillow**: Image handling library for displaying the lock icon
 
 ## License
 
