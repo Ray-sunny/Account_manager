@@ -1,4 +1,4 @@
-# Password Manager
+# Account Manager
 
 A secure and user-friendly password manager application built with Python, Tkinter, and SQLite. This application allows users to store and retrieve account credentials, securely encrypting sensitive information using the `cryptography` library. Ideal for organizing multiple accounts with custom categories and tags, the password manager offers an accessible GUI to simplify credential management.
 
